@@ -1,0 +1,6 @@
+<< properties >>
+string FIXED_BBOX 0 0 18379 20523
+string GDS_END 1227984
+string GDS_FILE /openlane/design/runs/RUN_2026.10.10_07.57.54/results/signoff/apb_spi_core.magic.gds
+string GDS_START 400438
+<< end >>

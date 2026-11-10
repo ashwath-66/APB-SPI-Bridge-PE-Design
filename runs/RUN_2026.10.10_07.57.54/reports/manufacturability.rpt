@@ -1,0 +1,19 @@
+Design Name: apb_spi_core
+Run Directory: /openlane/design/runs/RUN_2026.10.10_07.57.54
+----------------------------------------
+
+Magic DRC Summary:
+Source: /openlane/design/runs/RUN_2026.10.10_07.57.54/reports/signoff/drc.rpt
+Total Magic DRC violations is 0
+----------------------------------------
+
+LVS Summary:
+Source: /openlane/design/runs/RUN_2026.10.10_07.57.54/logs/signoff/41-apb_spi_core.lef.lvs.log
+Number of nets: 425                        |Number of nets: 425                        
+Design is LVS clean.
+----------------------------------------
+
+Antenna Summary:
+Source: /openlane/design/runs/RUN_2026.10.10_07.57.54/logs/signoff/44-arc.log
+Pin violations: 0
+Net violations: 0

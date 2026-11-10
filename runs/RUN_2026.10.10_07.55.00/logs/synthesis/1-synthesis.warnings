@@ -1,0 +1,3 @@
+Warning: Yosys has only limited support for tri-state logic at the moment. (/openlane/design/rtl/apb_spi_tb.v:10)
+ABC: Warning: Detected 2 multi-output gates (for example, "sky130_fd_sc_hd__fa_1").
+Warnings: 1 unique messages, 1 total

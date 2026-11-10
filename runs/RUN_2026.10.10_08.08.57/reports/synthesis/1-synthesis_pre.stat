@@ -1,0 +1,28 @@
+
+52. Printing statistics.
+
+=== apb_spi_core ===
+
+   Number of wires:                 97
+   Number of wire bits:            214
+   Number of public wires:          18
+   Number of public wire bits:     135
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                119
+     $_ANDNOT_                      12
+     $_AND_                          1
+     $_DFFE_PN0N_                    1
+     $_DFFE_PN0P_                   20
+     $_DFFE_PN1P_                    1
+     $_DFFE_PP_                     17
+     $_DFF_PN0_                      1
+     $_MUX_                          9
+     $_NAND_                         2
+     $_NOR_                          4
+     $_NOT_                          2
+     $_ORNOT_                        4
+     $_OR_                          42
+     $_XOR_                          3
+
